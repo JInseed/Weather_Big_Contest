@@ -2,6 +2,17 @@
 
 <br>
 
+
+<table width="100%">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/ec09474d-2d96-45f8-8e20-93b2fc0b7c7c" width="70%">
+    </td>
+  </tr>
+</table>
+
+<br>
+
 ## 수상결과
 
 **입선(사실은 1등이었던 것..!): 최하단에 설명**
